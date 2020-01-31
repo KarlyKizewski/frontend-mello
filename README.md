@@ -3,7 +3,8 @@ https://mello-notrello.herokuapp.com/ <br />
 This repository is code for the plain JavaScript necessary to make a page for boards. The link is to the full-fledged database driven application. <br />  <br />
 
 ## Visuals
-<img width="1275" alt="Screen Shot 2020-01-31 at 4 09 36 PM" src="https://user-images.githubusercontent.com/53051292/73574674-5273b100-4444-11ea-9265-12521da18b13.png">
+<img width="1269" alt="Screen Shot 2020-01-31 at 4 09 51 PM" src="https://user-images.githubusercontent.com/53051292/73575145-856a7480-4445-11ea-9c23-976b9a0a9712.png">
+
 
 ## Built With
 
